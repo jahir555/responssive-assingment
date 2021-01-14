@@ -1,0 +1,56 @@
+.first-heding{
+    color: orange;
+}
+.top-bgcolor{
+    background-color:FFFBF0;
+}
+.custom-bg-color{
+    background-color: #FFFBF0;
+}
+p{
+    font-size: 20px;
+}
+.logo-img{
+    width: 700px;
+    height: 80px;
+}
+
+.all-button{
+    background-color:yellowgreen;
+    font-weight: 1000px;
+    font-size: 20px;
+    color: white;
+    border-radius: 9px;
+    border: 0;
+    padding: 15px 30px;
+    margin-top: 10px;
+}
+
+.card-img-top{
+    background-color: #F1F1F1;
+    height: 35rem;
+    border-radius: 20px;
+}
+
+.last-sec{
+    background-color: #fff;
+    height: 130px;
+    padding: 30px 5px;
+    border-radius: 15px;
+}
+.last-sec img{
+    height: 100px;
+    width: 120px;
+    padding-right: 10px;
+}
+
+  ul#navigation .active {
+    font-weight: bold;
+  }
+  .all-card-footer{
+    border: 0;
+    background-color: #fff;
+  }
+  .card-border{
+      border: 0;
+  }
